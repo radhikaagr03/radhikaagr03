@@ -1,24 +1,70 @@
-<h1 align="center">Hi 👋, I'm Radhika Agarwal</h1>
-<h3 align="center">A passionate data analyst from US</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Radhika Agarwal
+====================================================================================================================================
 
-- 🔭 I’m currently working on **ddd**
+I am a skilled data analyst with a passion for uncovering meaningful insights from complex datasets. Currently pursuing my Master in Data Science at Indiana University, I hold a solid foundation in data analysis, data visualization, and SQL.
 
-- 🌱 I’m currently learning **MongoDB and Neo4j**
+* 🌍  I'm based in Bloomington, Indiana
+* ✉️  You can contact me at [agarwal.radhika0399@gmail.com](mailto:agarwal.radhika0399@gmail.com)
+* 🌐  I am always eager to collaborate on data-centric projects, continuously expanding my knowledge, and exploring new technologies.
+* 🤝  Feel free to connect with me on <a href="https://linkedin.com/in/radhikaagarwal03" target="blank"> LinkedIn </a> or explore my experiences further.
+* 📄  Know about my experiences from [Resume](https://github.com/radhikaagr03/radhikaagr03/blob/main/Radhika_Agarwal_Resume.docx)
 
-- 👯 I’m looking to collaborate on **dd**
+Let's turn data into actionable insights together! 📊✨
 
-- 🤝 I’m looking for help with **ss**
+---------------------------------------------------------------------------------------------------------------------
 
-- 💬 Ask me about **Statistics, Visualization**
+# Projects:
+<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/spotify-logo-1920x1080.jpg">**[Comparing Spotify Playlists through Visualizations](https://github.com/radhikaagr03/Comparing-Spotify-Playlists-through-Visualizations)**
 
-- 📫 How to reach me **agarwal.radhika0399@gmail.com**
+**Objective**: 
 
-- 📄 Know about my experiences [https://github.com/radhikaagr03/resume/blob/main/Radhika_Agarwal_Resume.pdf](https://github.com/radhikaagr03/resume/blob/main/Radhika_Agarwal_Resume.pdf)
+**Implementation**: 
+<br>
+<br>
+<br>
+<br>
+#
+<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Customer%20Segmentation%20Analysis.jpg">**[Customer Segmentation Analysis](https://github.com/radhikaagr03)**
 
-<h3 align="left">Connect with me:</h3>
+**Objective**: 
+
+**Implementation**: 
+<br>
+<br>
+<br>
+<br>
+#
+<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Health.png">**[Regression Analysis of Socioeconomic Factors and Health Insurance Coverage](https://github.com/radhikaagr03)**
+
+**Objective**: 
+
+**Implementation**: 
+<br>
+<br>
+<br>
+<br>
+<br>
+<div/>
+
+----------------------------------------------------------------------------------------------------------------------
+### Programming Languages
+
+
 <p align="left">
-<a href="https://linkedin.com/in/radhikaagarwal03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radhikaagarwal03" height="30" width="40" /></a>
-</p>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="40" height="40" alt="rlang" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" height="40" alt="C++" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+### Data Analyst Skills
+  
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  </p>
+
+
