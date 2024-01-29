@@ -22,11 +22,11 @@ Let's turn data into actionable insights together! 📊✨
 <br>
 <br>
 #
-<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Customer%20Segmentation%20Analysis.jpg">**[Customer Segmentation Analysis](https://github.com/radhikaagr03)**
+<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Customer%20Segmentation%20Analysis.jpg">**[Customer Segmentation Analysis](https://github.com/radhikaagr03/Customer-Segmentation-Analysis)**
 
-**Objective**: 
+**Objective**: Analyzing a customer personality dataset to identify patterns, relationships, and distinct segments based on spending habits, aiming to provide actionable insights for targeted marketing strategies.
 
-**Implementation**: 
+**Implementation**: Utilized exploratory data analysis, statistical analysis, and k-means clustering with PCA for dimensionality reduction to categorize customers into three segments: Impulsive Spenders, Loyal Customers, and Surfers, based on their behaviors and preferences.
 <br>
 <br>
 <br>
