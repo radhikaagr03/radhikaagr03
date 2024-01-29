@@ -32,11 +32,12 @@ Let's turn data into actionable insights together! 📊✨
 <br>
 <br>
 #
-<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Health.png">**[Regression Analysis of Socioeconomic Factors and Health Insurance Coverage](https://github.com/radhikaagr03)**
+<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Health.png">**[Regression Analysis of Socioeconomic Factors and Health Insurance Coverage](https://github.com/radhikaagr03/Regression-Analysis-of-Socioeconomic-Factors-and-Health-Insurance-Coverage)**
 
-**Objective**: 
+**Objective**: Explore the impact of socioeconomic factors on health insurance coverage through regression analysis, aiming to identify key determinants influencing individuals' likelihood of having health insurance.
 
-**Implementation**: 
+**Implementation**: Utilize statistical regression models on a comprehensive dataset, emphasizing income, education, and employment status, to quantify and analyze the relationships between socioeconomic variables and health insurance coverage.
+
 <br>
 <br>
 <br>
