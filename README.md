@@ -18,7 +18,7 @@ Let's turn data into actionable insights together! 📊✨
 
 **Objective**: Enhanced Spotify's "Blend" feature by developing an interactive dashboard with 10 impactful visualizations, facilitating collaborative playlist analysis and providing insights into musical trends.
 
-**Implementation**: Utilized Spotipy API for seamless data retrieval, showcasing visualizations such as Cumulative Distribution Plots, Scatterplots, Radar Plots, Network Maps, and Treemaps. Analyzed song attributes like energy, popularity, tempo, and valence to uncover patterns and connections within playlist data, boosting playlist curation effectiveness by 40%.
+**Implementation**: Utilized Spotify API for seamless data retrieval, showcasing visualizations such as Cumulative Distribution Plots, Scatterplots, Radar Plots, Network Maps, and Treemaps. Analyzed song attributes like energy, popularity, tempo, and valence to uncover patterns and connections within playlist data, boosting playlist curation effectiveness by 40%.
 <br>
 #
 <img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Customer%20Segmentation%20Analysis.jpg">**[Customer Segmentation Analysis](https://github.com/radhikaagr03/Customer-Segmentation-Analysis)**
