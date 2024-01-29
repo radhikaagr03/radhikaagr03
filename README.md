@@ -14,28 +14,28 @@ Let's turn data into actionable insights together! 📊✨
 ---------------------------------------------------------------------------------------------------------------------
 
 # Projects:
-<img align="left" width="250" height="230" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/spotify-logo-1920x1080.jpg">**[Comparing Spotify Playlists through Visualizations](https://github.com/radhikaagr03/Comparing-Spotify-Playlists-through-Visualizations)**
+<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/spotify-logo-1920x1080.jpg">**[Comparing Spotify Playlists through Visualizations](https://github.com/radhikaagr03/Comparing-Spotify-Playlists-through-Visualizations)**
 
 **Objective**: Enhanced Spotify's "Blend" feature by developing an interactive dashboard with 10 impactful visualizations, facilitating collaborative playlist analysis and providing insights into musical trends.
 
 **Implementation**: Utilized Spotify API for seamless data retrieval, showcasing visualizations such as Cumulative Distribution Plots, Scatterplots, Radar Plots, Network Maps, and Treemaps. Analyzed song attributes like energy, popularity, tempo, and valence to uncover patterns and connections within playlist data, boosting playlist curation effectiveness by 40%.
 <br>
 #
-<img align="left" width="250" height="230" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Customer%20Segmentation%20Analysis.jpg">**[Customer Segmentation Analysis](https://github.com/radhikaagr03/Customer-Segmentation-Analysis)**
+<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Customer%20Segmentation%20Analysis.jpg">**[Customer Segmentation Analysis](https://github.com/radhikaagr03/Customer-Segmentation-Analysis)**
 
 **Objective**: Analyzing a customer personality dataset to identify patterns, relationships, and distinct segments based on spending habits, aiming to provide actionable insights for targeted marketing strategies.
 
 **Implementation**: Utilized exploratory data analysis, statistical analysis, and k-means clustering with PCA for dimensionality reduction to categorize customers into three segments: Impulsive Spenders, Loyal Customers, and Surfers, based on their behaviors and preferences.
 <br>
 #
-<img align="left" width="250" height="230" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Health.png">**[Regression Analysis of Socioeconomic Factors and Health Insurance Coverage](https://github.com/radhikaagr03/Regression-Analysis-of-Socioeconomic-Factors-and-Health-Insurance-Coverage)**
+<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Health.png">**[Regression Analysis of Socioeconomic Factors and Health Insurance Coverage](https://github.com/radhikaagr03/Regression-Analysis-of-Socioeconomic-Factors-and-Health-Insurance-Coverage)**
 
 **Objective**: Explore the impact of socioeconomic factors on health insurance coverage through regression analysis, aiming to identify key determinants influencing individuals' likelihood of having health insurance.
 
 **Implementation**: Utilize statistical regression models on a comprehensive dataset, emphasizing income, education, and employment status, to quantify and analyze the relationships between socioeconomic variables and health insurance coverage.
 <br>
 #
-<img align="left" width="250" height="230" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/life_expectancy.jpeg">**[Life Expectancy and GDP Analysis](https://github.com/radhikaagr03/Life-Expectancy-and-GDP-Analysis)**
+<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/life_expectancy.jpeg">**[Life Expectancy and GDP Analysis](https://github.com/radhikaagr03/Life-Expectancy-and-GDP-Analysis)**
 
 **Objective**: Explore and analyze the relationship between GDP per capita and life expectancy in 2007 and over time by continent to identify trends and factors influencing life expectancy changes.
 
