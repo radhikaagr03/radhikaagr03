@@ -33,6 +33,16 @@ Let's turn data into actionable insights together! 📊✨
 **Objective**: Explore the impact of socioeconomic factors on health insurance coverage through regression analysis, aiming to identify key determinants influencing individuals' likelihood of having health insurance.
 
 **Implementation**: Utilize statistical regression models on a comprehensive dataset, emphasizing income, education, and employment status, to quantify and analyze the relationships between socioeconomic variables and health insurance coverage.
+<br>
+#
+<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/life_expectancy.jpeg">**[Life Expectancy and GDP Analysis](https://github.com/radhikaagr03/Life-Expectancy-and-GDP-Analysis)**
+
+**Objective**: Explore and analyze the relationship between GDP per capita and life expectancy in 2007 and over time by continent to identify trends and factors influencing life expectancy changes.
+
+**Implementation**: Utilize statistical methods, including logarithmic transformations and LOESS smoothing, on a comprehensive dataset to model and visualize the complex dynamics between GDP per capita and life expectancy, providing insights into variations across continents and time periods.
+<br>
+<br>
+<br>
 
 <div/>
 
