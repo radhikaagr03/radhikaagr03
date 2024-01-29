@@ -20,16 +20,12 @@ Let's turn data into actionable insights together! 📊✨
 
 **Implementation**: Utilized Spotipy API for seamless data retrieval, showcasing visualizations such as Cumulative Distribution Plots, Scatterplots, Radar Plots, Network Maps, and Treemaps. Analyzed song attributes like energy, popularity, tempo, and valence to uncover patterns and connections within playlist data, boosting playlist curation effectiveness by 40%.
 <br>
-<br>
 #
 <img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Customer%20Segmentation%20Analysis.jpg">**[Customer Segmentation Analysis](https://github.com/radhikaagr03/Customer-Segmentation-Analysis)**
 
 **Objective**: Analyzing a customer personality dataset to identify patterns, relationships, and distinct segments based on spending habits, aiming to provide actionable insights for targeted marketing strategies.
 
 **Implementation**: Utilized exploratory data analysis, statistical analysis, and k-means clustering with PCA for dimensionality reduction to categorize customers into three segments: Impulsive Spenders, Loyal Customers, and Surfers, based on their behaviors and preferences.
-<br>
-<br>
-<br>
 <br>
 #
 <img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Health.png">**[Regression Analysis of Socioeconomic Factors and Health Insurance Coverage](https://github.com/radhikaagr03/Regression-Analysis-of-Socioeconomic-Factors-and-Health-Insurance-Coverage)**
@@ -38,11 +34,6 @@ Let's turn data into actionable insights together! 📊✨
 
 **Implementation**: Utilize statistical regression models on a comprehensive dataset, emphasizing income, education, and employment status, to quantify and analyze the relationships between socioeconomic variables and health insurance coverage.
 
-<br>
-<br>
-<br>
-<br>
-<br>
 <div/>
 
 ----------------------------------------------------------------------------------------------------------------------
