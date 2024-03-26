@@ -12,7 +12,14 @@ I am a skilled data analyst with a passion for uncovering meaningful insights fr
 Let's turn data into actionable insights together! 📊✨
 
 ---------------------------------------------------------------------------------------------------------------------
+# Projects:
+<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/CRNY.png"> **[A Visual Impact on New York's Creative Pulse](https://github.com/radhikaagr03/A-Visual-Impact-on-New-York-s-Creative-Pulse)**
 
+**Objective**: To visually represent the revitalization of New York City's artistic community through an interactive data visualization project, focusing on demographic diversity and key performance indicators.
+
+**Implementation**: Implemented Tableau Public to develop interactive maps and narrative visualizations, integrating dynamic zone visibility, calculated fields, and parameters. Managed survey data independently, ensuring accuracy and integrity through meticulous data cleaning and preparation with Python, Excel, and Tableau.
+<br>
+#
 # Projects:
 <img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/spotify-logo-1920x1080.jpg"> **[Comparing Spotify Playlists through Visualizations](https://github.com/radhikaagr03/Comparing-Spotify-Playlists-through-Visualizations)**
 
