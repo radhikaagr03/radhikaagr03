@@ -20,7 +20,6 @@ Let's turn data into actionable insights together! 📊✨
 **Implementation**: Implemented Tableau Public to develop interactive maps and narrative visualizations, integrating dynamic zone visibility, calculated fields, and parameters. Managed survey data independently, ensuring accuracy and integrity through meticulous data cleaning and preparation with Python, Excel, and Tableau.
 <br>
 #
-# Projects:
 <img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/spotify-logo-1920x1080.jpg"> **[Comparing Spotify Playlists through Visualizations](https://github.com/radhikaagr03/Comparing-Spotify-Playlists-through-Visualizations)**
 
 **Objective**: Enhanced Spotify's "Blend" feature by developing an interactive dashboard with 10 impactful visualizations, facilitating collaborative playlist analysis and providing insights into musical trends.
