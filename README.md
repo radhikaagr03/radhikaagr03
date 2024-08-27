@@ -7,7 +7,7 @@ I am a skilled data analyst with a passion for uncovering meaningful insights fr
 * ✉️  You can contact me at [agarwal.radhika0399@gmail.com](mailto:agarwal.radhika0399@gmail.com)
 * 🌐  I am always eager to collaborate on data-centric projects, continuously expanding my knowledge, and exploring new technologies.
 * 🤝  Feel free to connect with me on <a href="https://linkedin.com/in/radhikaagarwal03" target="blank"> LinkedIn </a> or explore my experiences further.
-* 📄  Know about my experiences from [Resume](https://github.com/radhikaagr03/radhikaagr03/blob/main/Radhika_Agarwal_Resume.docx)
+* 📄  Know about my experiences from [Resume](https://github.com/radhikaagr03/radhikaagr03/blob/main/Resume_Radhika_Agarwal.pdf)
 
 Let's turn data into actionable insights together! 📊✨
 
