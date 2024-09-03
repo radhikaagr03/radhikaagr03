@@ -34,6 +34,15 @@ Let's turn data into actionable insights together! 📊✨
 **Implementation**: Utilized exploratory data analysis, statistical analysis, and k-means clustering with PCA for dimensionality reduction to categorize customers into three segments: Impulsive Spenders, Loyal Customers, and Surfers, based on their behaviors and preferences.
 <br>
 #
+<img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/NBA_Logo.jpg"> **[NBA Data Analysis](https://github.com/radhikaagr03/NBA-Data-Analysis)**
+
+**Objective**: The objective of this project is to analyze NBA data to gain insights into player performance, team dynamics, and game outcomes. By utilizing a relational database and SQL queries, the project aims to provide data-driven insights that can inform decision-making in sports analysis.
+
+**Implementation**: The project involves designing a relational database schema, populating it with NBA data using SQL scripts, and executing analytical queries to extract key insights. The implementation leverages SQL for database management, data ingestion, and analysis, focusing on key metrics such as player statistics, team performance, and trends over time.
+
+<br>
+
+#
 <img align="left" width="250" height="200" src="https://github.com/radhikaagr03/radhikaagr03/blob/main/Tableau_Photo.png"> **[Data-Driven Sales and Promotional Analysis](https://github.com/radhikaagr03/Data-Driven-Sales-and-Promotional-Analysis)**
 
 **Objective**: This Tableau data visualization project aims to analyze sales trends, promotional effectiveness, and regional dynamics across various retail product categories to provide actionable insights for business optimization.
