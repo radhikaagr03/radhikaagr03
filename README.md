@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Radhika Agarwal
 ====================================================================================================================================
 
-I am a skilled data analyst with a passion for uncovering meaningful insights from complex datasets. Currently pursuing my Master in Data Science at Indiana University, I hold a solid foundation in data analysis, data visualization, and SQL.
+I am a skilled data analyst with a passion for uncovering meaningful insights from complex datasets. Recently graduated with Master in Data Science from Indiana University, I hold a solid foundation in data analysis, data visualization, and SQL.
 
 * 🌍  I'm based in Bloomington, Indiana
 * ✉️  You can contact me at [agarwal.radhika0399@gmail.com](mailto:agarwal.radhika0399@gmail.com)
